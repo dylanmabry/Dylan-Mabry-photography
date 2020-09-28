@@ -1,0 +1,22 @@
+@charset "UTF-8";
+body{
+
+background:url('camera.png');
+background-size : cover;
+}
+
+#wrapper{ 
+ width: 990px;
+	height: 100px
+}
+
+p {
+  margin: 25px 50px 75px;
+}
+
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
